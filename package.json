@@ -1,0 +1,16 @@
+{
+  "name": "repro-fakeindexeddb-perf-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fake-indexeddb": "^3.0.1",
+    "performance-now": "^2.1.0"
+  }
+}
